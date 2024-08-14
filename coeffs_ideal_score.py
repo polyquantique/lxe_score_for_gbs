@@ -174,4 +174,4 @@ for kvec, lvec in product(res_partitions, res_partitions):
 
 np.save(f"./c_coeff_R_{filled_modes}_2N_{num_photons}", num_coeff)
 np.save(f"./d_coeff_R_{filled_modes}_2N_{num_photons}", den_coeff)
-np.save(f"./sqz_par_R_{filled_modes}".format(filled_modes), sqz_par)
+np.save(f"./sqz_par_R_{filled_modes}", sqz_par)

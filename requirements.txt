@@ -1,0 +1,5 @@
+numpy==1.26.4
+scipy==1.13.0
+sympy==1.12
+thewalrus==0.21.0
+graph-theory==2023.7.6
